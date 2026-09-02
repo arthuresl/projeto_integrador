@@ -1,1 +1,1 @@
-# projeto_integrador
+# projeto_integrador Data:02/09/2026 - Avaliação por pares - Os códigos atendem às exigências das aulas 2, 3 e 4, apresentando uma estrutura semântica, organizada e de fácil compreensão. Foram utilizadas tags como "<header>", "<nav>", "<main>", "<section>", "<article>" e "<footer>", além de formulário e vídeo. A organização do conteúdo facilita a navegação e deixa uma boa base para futuras melhorias com CSS e JavaScript.
