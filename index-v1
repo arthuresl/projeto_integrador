@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terra-média</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Terra-média</h1>
+
+    <nav>
+        <a href="#inicio">Início</a>
+        <a href="#cronologia">Cronologia</a>
+        <a href="#livros">Livros</a>
+        <a href="#filmes">Filmes</a>
+        <a href="#personagens">Personagens</a>
+    </nav>
+</header>
+
+<main>
+
+<section id="inicio">
+    <h2>Bem-vindo à Terra-média</h2>
+    <p>Conheça o universo criado por J. R. R. Tolkien, seus livros,
+    filmes e personagens.</p>
+</section>
+
+<section id="cronologia">
+    <h2>Cronologia</h2>
+
+    <article>
+        <h3>Primeira Era</h3>
+        <p>Grandes guerras contra Morgoth.</p>
+    </article>
+
+    <article>
+        <h3>Segunda Era</h3>
+        <p>Criação dos Anéis de Poder e ascensão de Sauron.</p>
+    </article>
+
+    <article>
+        <h3>Terceira Era</h3>
+        <p>Período de O Hobbit e O Senhor dos Anéis.</p>
+    </article>
+
+    <article>
+        <h3>Quarta Era</h3>
+        <p>Período iniciado após a derrota de Sauron.</p>
+    </article>
+</section>
+
+<section id="livros">
+    <h2>Livros</h2>
+
+    <article>
+        <h3>O Hobbit</h3>
+        <p>1937 - Bilbo parte em uma grande aventura.</p>
+    </article>
+
+    <article>
+        <h3>A Sociedade do Anel</h3>
+        <p>1954 - Frodo recebe o Um Anel.</p>
+    </article>
+
+    <article>
+        <h3>As Duas Torres</h3>
+        <p>1954 - A Sociedade segue caminhos diferentes.</p>
+    </article>
+
+    <article>
+        <h3>O Retorno do Rei</h3>
+        <p>1955 - A batalha final contra Sauron se aproxima.</p>
+    </article>
+</section>
+
+<section id="filmes">
+    <h2>Filmes</h2>
+    <p>A trilogia dirigida por Peter Jackson.</p>
+
+    <article>
+        <h3>A Sociedade do Anel</h3>
+        <p>2001</p>
+    </article>
+
+    <article>
+        <h3>As Duas Torres</h3>
+        <p>2002</p>
+    </article>
+
+    <article>
+        <h3>O Retorno do Rei</h3>
+        <p>2003</p>
+    </article>
+</section>
+
+<section id="personagens">
+    <h2>Personagens</h2>
+
+    <article>
+        <h3>Frodo</h3>
+        <p>Hobbit responsável pelo Um Anel.</p>
+    </article>
+
+    <article>
+        <h3>Aragorn</h3>
+        <p>Herdeiro de uma antiga linhagem de reis.</p>
+    </article>
+
+    <article>
+        <h3>Gandalf</h3>
+        <p>Um sábio mago que ajuda a Sociedade.</p>
+    </article>
+</section>
+
+</main>
+
+<footer>
+    <p>Terra-média - Projeto acadêmico de fã.</p>
+</footer>
+
+</body>
+</html>
